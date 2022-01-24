@@ -3,7 +3,5 @@ Este projeto foi feito com o objetivo de praticar conceitos básicos de HTML e C
 
 Direitos do texto reservados a Milton Duarte.
 
-Link para visualização do projeto: 
+Link para visualização do projeto: https://eduardofiorentin.github.io/projeto-cordel/
 
-
-Projeto do cordel de Milton Duarte - Projeto do curso de HTML/CSS do Curso em Video
